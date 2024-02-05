@@ -1,0 +1,36 @@
+.navbar-nav .dropdown:hover .dropdown-menu {
+    display: block;
+     ;
+}
+#products:hover{
+    background-color: darkred;
+}
+/* .image{
+    
+} */
+#online{
+    padding: 23px;
+    margin-left: 10px;
+  }
+  #bhavan{
+    border-color: darkgreen !important;
+    background-color:#100854;
+    color: #fff;
+    width: 100%;
+}
+.yono{
+
+    margin-right: 50px;
+}
+/* .blur-background {
+    background-image: url('./bank.jpg');
+    background-size: cover;
+    backdrop-filter: blur(10px); /
+  } */
+
+.hover-effect:hover{
+  background-color: black;
+}
+/* #bk{
+  font-family: sans-serif;
+} */
